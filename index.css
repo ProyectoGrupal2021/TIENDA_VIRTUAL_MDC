@@ -1,0 +1,114 @@
+header{
+    width: 100%;
+    
+}
+#wwa{
+    
+    
+    margin-left: 13px;
+    margin-right: 20px;
+    text-align: center;
+}
+nav{
+    float: left;
+    width: 100%;
+    margin-bottom: 1%;
+    margin-top: 2%;
+
+    display: inline-block;
+    font-size: 15px;
+    }
+
+
+a{
+    margin-left: 13%;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    
+    
+
+}
+a:hover{
+    background: rgb(166, 243, 237);
+
+}
+
+form{
+    display: inline-block;
+    width: 100%;
+    margin-top: 3%;
+}
+label{
+    float: right;
+    display: inline-block;
+    float: left;
+}
+button{
+    float: right;
+}
+
+#s1{
+    float: left;
+    width: 50%;
+    margin-bottom: 1%;
+    margin-top: 5%;
+    border-radius: 28px;
+    margin-Left:26%;
+    font-size: 25px;
+}
+
+#au{
+    text-align: center;
+    font-size: 200%;
+    width: 100%;
+    background-color: rgb(166, 243, 237);
+}
+
+#in{
+    font-size: 200%
+}
+
+h2{
+    text-align: center;
+    font-size: 200%;
+    width: 100%;
+    background-color: rgb(166, 243, 237);
+}
+
+footer{
+
+    margin-top: 70%;
+    font-size: 15px;
+    background-color: rgb(166, 243, 237);
+    text-align: center;
+}
+
+#ig:hover{
+    background: none;
+    text-align: center;
+}
+
+#ls:hover{
+    background: none;
+    text-align: center;
+}
+
+#rr{
+    text-align: center;
+}
+
+#ij{
+    font-size:100%;
+    text-align: center;
+}
+
+#video2 {
+    text-align: center;
+    width: 15%;
+    margin-bottom: 20%;
+    margin-top: 5%;
+    font-size: 20px;
+    margin-left: 110px;
+    }
